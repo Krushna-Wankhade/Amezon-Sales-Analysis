@@ -1,2 +1,2 @@
 # Amezon-Sales-Analysis
-New data science oroject
+New data science project
